@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "VIRTUAL SPEED-NETWORKING"
-date: 2024-08-28-31
+date: 2025-03-28
 categories:
   - Events
   - News
@@ -13,7 +13,7 @@ The SPAAM steering committee has organized a speed-networking event between PIs 
 
 
 ## When is this happening?
-Wednesday April 9th 11.00AM-01.00PM CET
+Wednesday **April 9th 11.00AM-01.00PM CET**
 
 
 ## What is it?
