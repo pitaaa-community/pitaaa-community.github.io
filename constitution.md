@@ -10,7 +10,7 @@ sidebar_link: true
 
 SPAAM is a community of researchers from around the world focusing on ancient metagenomics, affiliated with the International Society of Biomolecular Archaeology
 
-- Our primary community space is Slack, and we also have an annual conference and other online events 
+- Our primary community space is [**Element**](https://matrix.to/#/#spaam:archaeo.social), and we also have an annual conference and other online events 
 
 - All career stages are invited, but the emphasis is on providing a welcoming space for early-career researchers
 
@@ -24,7 +24,7 @@ SPAAM is a community of researchers from around the world focusing on ancient me
 
 SPAAM stands for Standards Precautions & Advances in Ancient Metagenomics. We are a community of researchers from around the world focusing on ancient metagenomics.
 
-We aim to openly share knowledge and experience to find solutions to common challenges and obstacles that the field faces, primarily within online community spaces (slack). We run various collaborative projects for the benefit of the whole community and to progress the field including a regular conference for early career researchers. We have various events and a regular workshop with cycling organisation committees to improve networking.
+We aim to openly share knowledge and experience to find solutions to common challenges and obstacles that the field faces, primarily within online community spaces [(Element)](https://matrix.to/#/#spaam:archaeo.social). We run various collaborative projects for the benefit of the whole community and to progress the field including a regular conference for early career researchers. We have various events and a regular workshop with cycling organisation committees to improve networking.
 
 The idea of SPAAM originated in 2016 from the Standards, Precautions, and Advances in Ancient Metagenomics (SPAAM) conference and publication on ways of improving ancient metagenomics research. Later, it was expanded to become an entire community-led effort and space thanks to the initiative of a small group of researchers in the field of aDNA and metagenomics. We now have over three hundred members from all over the world! We have also been associated with the International Society of Biomolecular Archaeology since 2022.
 
