@@ -1,9 +1,8 @@
 ---
-layout: post
-title: "SPAAMTisch seminars"
-categories: Publications
+layout: page
+title: "SPAAMTIsch calendar"
+sidebar_link: false
 ---
-
 The recordings of the sSPAAMTisch seminars can be found on our [Youtube channel](https://www.youtube.com/watch?v=lxA3LU9AS0Q&ab_channel=SPAAMCommunity)
 
 
