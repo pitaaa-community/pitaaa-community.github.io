@@ -135,7 +135,9 @@ The community has a monthly online get-together on the SPAAM gather.town space f
 alt="spaamtisch logo"  width="200px"
 style="display:block;margin-left:auto;margin-right:auto;width=50%;">
 
-More information and topics can be found on the [#spaamtisch](https://spaam-community.slack.com/archives/C04B276G5D1) channel on the [SPAAM slack workspace](/about).
+More information and topics can be found in the [SPAAMTisch room](https://matrix.to/#/#spaamtisch:matrix.org) of our [Element channel](https://matrix.to/#/#spaam:archaeo.social).
+
+You can find the recording of the seminars on our [YouTube channel](https://www.youtube.com/@spaam-community).
 
 Contact person(s): [Maria Lopopolo](mailto:maria.lopopolo1989@gmail.com)
 
