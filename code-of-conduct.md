@@ -83,9 +83,9 @@ SPAAM Safety Office
 
 - Aida Andrades Valtueña (CAT/ES/EN, MPI-EVA, Leipzig, aida_andrades@eva.mpg.de)
 - Shreya Ramachandran (EN/ES, University of Chicago, Chicago, shreya23@uchicago.edu)
-- Elizabeth 'Betsy' Nelson (EN/ES, Institut Pasteur, Paris, enelson@pasteur.fr)
+- Elizabeth 'Betsy' Nelson (EN/ES, Southern Methodist University, Dallas, elizabethnelson@smu.edu)
 - Gunnar Neumann (DE/EN, MPI-EVA, Leipzig, gunnar_neumann@eva.mpg.de)
-- Nasreen Broomand (EN, UCSC, Santa Cruz, nbrooman@ucsc.edu)
+- Anastasia Brativnyk (UK/RU/NO/EN, The Francis-Crick Institute, London, anastasia.brativnyk@crick.ac.uk)
 
 To report any violation you can contact any of the members of the SPAAM Safety Office or fill out the [**anonymous report form**](https://forms.gle/9RqKZL8hXBxMvFLs6).
 
