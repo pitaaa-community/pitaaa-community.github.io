@@ -114,7 +114,7 @@ Formed by the chair and the secretary. Responsible for ensuring the committee fu
 
 Chair: leads meetings, sets agendas, moderates discussions and delegates tasks to volunteer members. It represents the SPAAM community in any official meetings or interviews. They are also responsible for having an overview of the various initiatives by maintaining a close communication with the treasurer, social media and engagement teams. Allows for discussion around long-term topics, needs to be forward-thinking on this end.
 
-Secretary: Takes meeting minutes and , sends them out via slack when they are ready, makes sure that assignments are noted. Organisational responsibilities (ie keeping googledocs in order, annotating the minutes with required links, possibly doing same for the agenda ahead of time. The role can also be divided between two Steering committee members.
+Secretary: Takes meeting minutes and makes sure that assignments are noted. Organisational responsibilities (ie keeping googledocs in order, annotating the minutes with required links, possibly doing same for the agenda ahead of time. The role can also be divided between two Steering committee members.
 
 ### Treasurer team
 
