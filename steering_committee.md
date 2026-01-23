@@ -11,7 +11,7 @@ We, the Steering Committee of the SPAAM community would like to take a moment to
 
 The steering committee is intended to guide the SPAAM community in a more formalized way; this involves brainstorming and proposing new initiatives and helping new initiatives get off the ground (like the successfully  launched [**SPAAMtisch**](https://spaam-community.github.io/projects/#spaamtisch)), increasing engagement and support for SPAAM members and events, helping with ongoing organization efforts, publicization of SPAAM, and sourcing funds for the maintenance of SPAAM.
 
-We all are volunteers on the Steering Committee and we are really excited to work with all of you and help improve the SPAAM community.
+We all are volunteers on the Steering Committee and we are really excited to work with all of you and help improve the SPAAM community. From 2026 onwards, we will hold [yearly elections](https://github.com/SPAAM-community/spaam-community.github.io/blob/master/constitution.md#description-of-the-roles) for the Steering Committee, please contact the current Steering Committee if you would like to join for the next term. The roles within the Steering Committee are outlined [here](https://github.com/SPAAM-community/spaam-community.github.io/blob/master/constitution.md#description-of-the-roles).
 
 ## Introducing the new Steering Committee
 
@@ -21,7 +21,7 @@ We all are volunteers on the Steering Committee and we are really excited to wor
 
 I am a postdoc at the Max Planck Institute for Evolutionary Anthropology working in the Computational Pathogenomics group. My main interest lies in pathogen emergence, dispersal and ecology and exploring new computational methods to make the most out of our little data! I am a passionate gardener, dog lover and a knitter.  
 
-Contact: aida_andrades@eva.mpg.de, [**X**](http://x.com/aidaanva), @aidanva (slack)
+Contact: aida_andrades@eva.mpg.de, [**X**](http://x.com/aidaanva)
 
 
 
@@ -168,7 +168,7 @@ Aida Andrades Valtueña (she/her)  - Engagement Team
 
 I am a postdoc at the Max Planck Institute for Evolutionary Anthropology working in the Computational Pathogenomics group. My main interest lies in pathogen emergence, dispersal and ecology and exploring new computational methods to make the most out of our little data! I am a passionate gardener, dog lover and a knitter.  
 
-Contact: aida_andrades@eva.mpg.de, [**twitter**](http://twitter.com/aidaanva), @aidanva (slack)
+Contact: aida_andrades@eva.mpg.de, [**twitter**](http://twitter.com/aidaanva), @aidanva
 
 <img src="/assets/media/shreya.png" class="center" width="50%" >
 
@@ -177,23 +177,3 @@ Shreya Ramachandran (she/her) - Engagement Team
 I am a PhD student in Dr. Maanasa Raghavan’s lab at the University of Chicago. My research projects span a variety of topics in microbial evolution, from ancient pathogens to modern gut microbiomes. I am also interested in science teaching and communication. Outside of science I love trying new recipes, befriending other people’s dogs, and solving crossword puzzles (sometimes competitively). 
 
 Contact: shreya23@uchicago.edu, [**twitter**](http://twitter.com/srama23)
-
-## Roles:
-
-**Management team**: formed by the chair and the secretary. Responsible for ensuring the committee functions smoothly and achieves its goals.
-
-- **Chair**: leads meetings, sets agendas, moderates discussions and delegates tasks to volunteer members. It represents the SPAAM community in any official meetings or interviews. They are also responsible for having an overview of the various initiatives by maintaining a close communication with the treasurer, social media and engagement teams. Allows for discussion around long-term topics, needs to be forward thinking on this end.
-
-- **Secretary**: Takes meeting minutes, sends them out via slack when they are ready, makes sure that assignments are noted. Organisational responsibilities (ie keeping google docs in order, annotating the minutes with required links, possibly doing same for the agenda ahead of time
-
-**Treasurer team**
-
-The treasurer team is responsible for managing the funds, for the communication related to funds and responsible for allocating funding to initiatives by serving as a line of communication between the organising committees and the Steering Committee. The treasurer team is also responsible to collect funds as well as finding grant opportunities to continue to fund SPAAM initiatives.
-
-**Social media team**
-
-The social media team is responsible for the outreach of the community, by tweeting, emailing as well as updating the website. Social media officers will announce new initiatives, conferences, papers and jobs that are relevant for the SPAAM community. They will also be responsible for maintaining the YouTube channel of the community.
-
-**Engagement team**
-
-The engagement officers are responsible for coming up with new initiatives (projects, summer schools, outreach activities, etc.) and propose them to the community. They will also oversee ongoing initiatives and provide support for them to reach their goals. They will ensure that the initiative is known in the community, as well as outside the community together with the media team. As well as suggesting potential funding sources for the initiative, by engaging with the treasurer team.
