@@ -91,7 +91,7 @@ for ancient DNA, provisionally called the 'MInAS' checklist
 (Minimum INformation about Ancient Sequences').
 
 The MInAS website can be found [here](https://mixs-minas.org/). Please
-join the SPAAM [Slack](/about.md) workspace and [#metadata-standards](https://spaam-community.slack.com/archives/C01BX7EM4EL) channel to join the working group.
+contact [James Fellows Yates](mailto:james_fellows_yates@eva.mpg.de) for access to the GSC Slack.
 
 Contact person(s): [James Fellows Yates](mailto:james_fellows_yates@eva.mpg.de) and [Antonio Fernandez-Guerra](mailto:antonio.fernandez-guerra@sund.ku.dk)
 
