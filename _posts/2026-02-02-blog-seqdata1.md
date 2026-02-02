@@ -46,7 +46,7 @@ JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ
 
 This table shows a line-by-line breakdown of each entry (read) in the file:
 
-![fastq-file](https://hackmd.io/_uploads/B1Cz3l0LZe.png)
+![fastq-file](https://github.com/SPAAM-community/spaam-community.github.io/blob/master/assets/media/blog-seqdata1-fastq-file.png)
 
 †Some databases or organizations have specific formats for the headers. [Wikipedia](https://en.wikipedia.org/wiki/FASTQ_format) has a good explanation of this.
 
@@ -74,7 +74,7 @@ M_K00233:75:HMVJGBBXX:7:2110:5477:22590 0   	1   	882544  37  	73M 	*   	0   	0 
 
 Just like with the fastq files, this isn’t *really* meant to be read by you! It’s meant to be read by a computer. But knowing what it should look like is helpful when you need a sanity check. It’s good practice to sanity check files when you first download them, especially if you didn’t generate them. Below is a table from the [SAMTools documentation](https://samtools.github.io/hts-specs/SAMv1.pdf) describing each column. It’s unusual that you’ll need to work with all of these, but it’s again useful to point out the quality scores for the mapping (MAPQ) and base calling (QUAL). **Remember: you will use these columns for quality filtering before analysis.**
 
-![bam-file](https://hackmd.io/_uploads/S1R73xCLbl.png)
+![bam-file](https://github.com/SPAAM-community/spaam-community.github.io/blob/master/assets/media/blog-seqdata1-bam-file.png)
 
 ### Index Files
 
@@ -124,7 +124,7 @@ which makes the file less computationally intensive to work with (see ‘Index F
 
 
 The difference between FASTQ, BAM and FASTA files. Created with Biorender.com
-![biorender](https://hackmd.io/_uploads/HJaE3xRLbe.png)
+![biorender](https://github.com/SPAAM-community/spaam-community.github.io/blob/master/assets/media/biorender.png)
 
 
 
