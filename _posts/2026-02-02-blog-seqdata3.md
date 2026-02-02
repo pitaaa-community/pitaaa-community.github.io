@@ -11,8 +11,10 @@ tags: spaam, blog
 _by [Olivia Smith](https://www.oliviasmith.me/home)_
 
 **Don't forget to check out Part 1 and 2!**
+
 [Part 1: File formats](https://www.spaam-community.org/blog/2026/02/02/blog-seqdata1/)
-[Part 1: Download tools](https://www.spaam-community.org/blog/2026/02/02/blog-seqdata2/)
+
+[Part 2: Download tools](https://www.spaam-community.org/blog/2026/02/02/blog-seqdata2/)
 
 **tl;dr**
 There’s tons of options for working with sequencing reads and consensus sequences, so pick whatever floats your boat and/or what the nearest-to-you scholar uses. You should learn SAMTools and BCFTools for alignment files. My best advice is **(1) read the documentation and (2) read all the options/flags for a function before you use it.**
