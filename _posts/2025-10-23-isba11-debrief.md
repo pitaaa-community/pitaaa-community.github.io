@@ -8,8 +8,6 @@ authors:
 tags: spaam, blog
 ---
 
-# ISBA11 Debriefing
-
 _by [The Steering Committee and SPAAM7 organizing committee](https://www.spaam-community.org/steering_committee/)_
 
 At the conclusion of the ISBA conference, members of our ancient metagenomics community gathered for a debriefing session to share our impressions and feedback on the ISBA conference program. Below is a summary of the key points discussed.
