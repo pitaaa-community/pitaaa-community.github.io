@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Wrangling Sequencing Data. Part 1: File Formats"
-date: 2025-02-20
+date: 2026-02-02
 categories: Blog
 authors:
   - Olivia Smith 
@@ -46,7 +46,7 @@ JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ
 
 This table shows a line-by-line breakdown of each entry (read) in the file:
 
-![Screenshot 2025-02-20 at 17.44.47](https://hackmd.io/_uploads/BJY85kr9yl.png)
+![fastq-file](https://hackmd.io/_uploads/B1Cz3l0LZe.png)
 
 †Some databases or organizations have specific formats for the headers. [Wikipedia](https://en.wikipedia.org/wiki/FASTQ_format) has a good explanation of this.
 
@@ -74,7 +74,7 @@ M_K00233:75:HMVJGBBXX:7:2110:5477:22590 0   	1   	882544  37  	73M 	*   	0   	0 
 
 Just like with the fastq files, this isn’t *really* meant to be read by you! It’s meant to be read by a computer. But knowing what it should look like is helpful when you need a sanity check. It’s good practice to sanity check files when you first download them, especially if you didn’t generate them. Below is a table from the [SAMTools documentation](https://samtools.github.io/hts-specs/SAMv1.pdf) describing each column. It’s unusual that you’ll need to work with all of these, but it’s again useful to point out the quality scores for the mapping (MAPQ) and base calling (QUAL). **Remember: you will use these columns for quality filtering before analysis.**
 
-![Screenshot 2025-02-20 at 17.51.36](https://hackmd.io/_uploads/H1JpoJrqkg.png)
+![bam-file](https://hackmd.io/_uploads/S1R73xCLbl.png)
 
 ### Index Files
 
@@ -124,7 +124,7 @@ which makes the file less computationally intensive to work with (see ‘Index F
 
 
 The difference between FASTQ, BAM and FASTA files. Created with Biorender.com
-![Screenshot 2025-02-20 at 18.01.50](https://hackmd.io/_uploads/Hk14AkS5Jg.png)
+![biorender](https://hackmd.io/_uploads/HJaE3xRLbe.png)
 
 
 
