@@ -70,7 +70,7 @@ M_K00233:75:HMVJGBBXX:7:2110:5477:22590 0   	1   	882544  37  	73M 	*   	0   	0 
 
 Just like with the fastq files, this isn’t *really* meant to be read by you! It’s meant to be read by a computer. But knowing what it should look like is helpful when you need a sanity check. It’s good practice to sanity check files when you first download them, especially if you didn’t generate them. Below is a table from the [SAMTools documentation](https://samtools.github.io/hts-specs/SAMv1.pdf) describing each column. It’s unusual that you’ll need to work with all of these, but it’s again useful to point out the quality scores for the mapping (MAPQ) and base calling (QUAL). **Remember: you will use these columns for quality filtering before analysis.**
 
-<img src="/assets/media/blog-seqdata1-bamfile.png" alt="bam-file" width="100%" class="center">
+<img src="/assets/media/blog-seqdata1-bam-file.png" alt="bam-file" width="100%" class="center">
 
 ### Index Files
 
