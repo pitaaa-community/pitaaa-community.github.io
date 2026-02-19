@@ -82,7 +82,7 @@ This code of conduct and its related procedures also applies to unacceptable beh
 SPAAM Safety Office
 
 - Aida Andrades Valtueña (CAT/ES/EN, MPI-EVA, Leipzig, aida_andrades@eva.mpg.de)
-- Shreya Ramachandran (EN/ES, University of Chicago, Chicago, shreya23@uchicago.edu)
+- Laura Carrillo-Olivas (EN/ES, Universidad Nacional Autónoma de México, lcarrilloolivas@liigh.unam.mx)
 - Elizabeth 'Betsy' Nelson (EN/ES, Southern Methodist University, Dallas, elizabethnelson@smu.edu)
 - Gunnar Neumann (DE/EN, MPI-EVA, Leipzig, gunnar_neumann@eva.mpg.de)
 - Anastasia Brativnyk (UK/RU/NO/EN, The Francis-Crick Institute, London, anastasia.brativnyk@crick.ac.uk)
