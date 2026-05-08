@@ -1,11 +1,11 @@
 ---
-layout: post
+layout:
 title: "Emerging Ancient RNA Virus Research"
 date: 2026-05-08
-categories: Blog
+categories: 
 authors:
   - Benjamin Guinet 
-tags: spaam, blog
+tags: 
 ---
 
 _by [Benjamin Guinet](https://benjaminguinet.github.io)_
