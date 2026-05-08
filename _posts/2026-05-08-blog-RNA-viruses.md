@@ -34,6 +34,7 @@ Building on these insights, the first convincing evidence that RNA viruses can b
 ---
 
     <img src="/assets/media/Timeline_RNA_virus.svg" alt="timeline" width="100%" class="center">
+    
 ***Figure 1.** Ancient host and viral RNA discoveries placed on a timeline with modern RNA virus sequencing activity. The timeline uses a segmented non-linear year axis in which deep time (∼40,000–10,000 BCE), the Holocene (10, 000 BCE–0), the historical period (0–1900 CE), the 20th century (1900–2000), and the genomic era (2000–present) are displayed at progressively expanding scales to allow simultaneous visualization of sparse ancient RNA discoveries and dense modern sequencing. Annotated host ancient RNA events (top; circles) and ancient viral RNA events (bottom; squares) were curated manually from the literature. Modern RNA virus data (bars) correspond to complete NCBI RNA virus assemblies, filtered to representative RNA virus families found in mammals, and plotted yearly according to collection date metadata. These assembly counts are intended to reflect relative temporal trends in sequencing activity rather than absolute numbers of RNA virus genomes generated, which are substantially higher in practice.*
 
 ---
