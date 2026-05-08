@@ -1,7 +1,7 @@
 ---
 layout:
 title: "Emerging Ancient RNA Virus Research"
-date: 2026-05-08
+date: 2020-05-08
 categories: 
 authors:
   - Benjamin Guinet 
