@@ -32,14 +32,14 @@ On the RNA side, recent studies have shown that RNA, previously assumed to be fa
 Building on these insights, the first convincing evidence that RNA viruses can be recovered from ancient material is now beginning to emerge. In plants, RNA preservation appears to be more common than in animals, likely because intact RNA is required for seed viability and germination, facilitating its persistence over extended timescales. Consistent with this, a Chrysovirus was isolated from approximately 1,000-year-old maize samples [32] (Fig. 1). However, in animals recovery presents a substantially greater challenge, as RNA molecules typically degrade rapidly after death due to enzymatic activity and environmental damage. Nevertheless, recent metatranscriptomic analyses of naturally mummified Adélie penguin remains from Antarctica reported the recovery of authentic RNA virus genomes spanning centuries to millennia, including diverse lineages of Picornavirus and Rotavirus [33] (Fig. 1). 
 
 ***
-<figure>
     <img src="assets/media/Timeline_RNA_virus.pdf" alt="timeline" width="100%" class="center">
-    <figcaption>**Figure 1.** Ancient host and viral RNA discoveries placed on a timeline with modern RNA virus sequencing activity. The timeline uses a segmented non-linear year axis in which deep time (∼40,000–10,000 BCE), the Holocene (10, 000 BCE–0), the historical period (0–1900 CE), the 20th century (1900–2000), and the genomic era (2000–present) are displayed at progressively expanding scales to allow simultaneous visualization of sparse ancient RNA discoveries and dense modern sequencing. Annotated host ancient RNA events (top; circles) and ancient viral RNA events (bottom; squares) were curated manually from the literature. Modern RNA virus data (bars) correspond to complete NCBI RNA virus assemblies, filtered to representative RNA virus families found in mammals, and plotted yearly according to collection date metadata. These assembly counts are intended to reflect relative temporal trends in sequencing activity rather than absolute numbers of RNA virus genomes generated, which are substantially higher in practice.</figcaption>
-</figure>
+
+**Figure 1.** Ancient host and viral RNA discoveries placed on a timeline with modern RNA virus sequencing activity. The timeline uses a segmented non-linear year axis in which deep time (∼40,000–10,000 BCE), the Holocene (10, 000 BCE–0), the historical period (0–1900 CE), the 20th century (1900–2000), and the genomic era (2000–present) are displayed at progressively expanding scales to allow simultaneous visualization of sparse ancient RNA discoveries and dense modern sequencing. Annotated host ancient RNA events (top; circles) and ancient viral RNA events (bottom; squares) were curated manually from the literature. Modern RNA virus data (bars) correspond to complete NCBI RNA virus assemblies, filtered to representative RNA virus families found in mammals, and plotted yearly according to collection date metadata. These assembly counts are intended to reflect relative temporal trends in sequencing activity rather than absolute numbers of RNA virus genomes generated, which are substantially higher in practice.</figcaption>
+***
 
 Together, these findings show that, under favorable preservation, ancient RNA virus genomes can persist far longer than previously assumed. The challenge ahead is to move beyond proof-of-concept discoveries toward systematic, reproducible detection and authentication, supported by strategic sampling, optimized laboratory workflows, and robust bioinformatic and evolutionary frameworks to reliably integrate these data into reconstructions of viral evolution.
 
-***
+
 
 ## Future directions in the field
 Efficiently targeting RNA viruses
