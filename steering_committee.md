@@ -21,8 +21,6 @@ We all are volunteers on the Steering Committee and we are really excited to wor
 
 **Mackenzie Masters**
 
-[Contact]: aida_andrades@eva.mpg.de, [**X**](http://x.com/aidaanva)
-
 #### Vice Chairs
 
 **Nadia Neff**

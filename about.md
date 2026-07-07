@@ -21,7 +21,7 @@ We achieve these aims with various [projects](/projects), and by regularly commu
 
 Please join us on our:
 
-- Chat server on [**archaeo.social**](https://matrix.to/#/#pitaaa:matrix.io)
+- Chat server on [**element**](https://matrix.to/#/#pitaaa:matrix.io)
   for day-to-day advice, help, brainstorming, news, networking, and socialising. You can find instructions on how to join [**here**](https://www.isbarch.org/chat) \*.
 - [**Mailing list**](https://docs.google.com/forms/d/e/1FAIpQLScqWppl4ECqo3D6ppa8ghLTeqN8uyrZlBFaCkwzI_IyD8Qw9w/viewform) for announcements, calls, and notices.
 - [**Instagram**](https://www.instagram.com/pitaaa.community/)

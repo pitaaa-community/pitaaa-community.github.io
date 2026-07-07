@@ -12,7 +12,7 @@ description: |
   Advancing 
   Applications in
   Archaeology
-url: https://IndyBat.github.io/pitaaa-community.github.io-dev/
+url: https://pitaaa-community.github.io
 baseurl:
   "/"
   # the optional subpath of your site, e.g. "/blog"
@@ -24,7 +24,7 @@ remote_theme: fongandrew/hydeout
 
 author:
   name: "PITAAA Community"
-  url: https://twitter.com/pitaaa_community
+  url: https://pitaaa-community.github.io 
 
 paginate: 5
 # paginate_path:    '/page:num'
