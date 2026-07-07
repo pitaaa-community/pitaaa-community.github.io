@@ -6,15 +6,15 @@ sidebar_link: true
 
 ## TL;DR
 
-- All attendees and members of SPAAM are expected to be respectful towards all members regardless of background, and actively participate in creating a welcoming and friendly community.
+- All attendees and members of PITAAA are expected to be respectful towards all members regardless of background, and actively participate in creating a welcoming and friendly community.
 - [Unacceptable](#4-unacceptable-behaviour) or illegal behaviour will not be tolerated and the organisers reserve the right to remove anyone violating the Code of Conduct from both in-person or online channels.
-- If at any point you feel unsafe or the code of conduct is violated, please contact any of the following [SPAAM members](#8-contact-info) who will deal with any issues respectfully and anonymously, as required.
+- If at any point you feel unsafe or the code of conduct is violated, please contact any of the [PITAAA Steering Committee members](https://pitaaa-community.github.io/steering_committee/) who will deal with any issues respectfully and anonymously, as required.
 
 > This is only for guidance, and the main body of this page is the enforceable document.
 
 ## 1. Purpose
 
-A primary goal of SPAAM is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socio-economic status, and religion (or lack thereof).
+A primary goal of PITAAA is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socio-economic status, and religion (or lack thereof).
 
 This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behaviour.
 
@@ -26,7 +26,7 @@ A supplemental goal of this Code of Conduct is to increase 'citizenship' by enco
 
 Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society.
 
-If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, we want to know (either in person, Element, or email - see section 8).
+If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, we want to know (either in person, Element, or email).
 
 ## 3. Expected Behaviour
 
@@ -77,20 +77,9 @@ We expect all participants (contributors, paid or otherwise, and other guests) t
 
 This code of conduct and its related procedures also applies to unacceptable behaviour occurring outside the scope of community activities when such behaviour has the potential to adversely affect the safety and well-being of community members.
 
-### 8. Contact info
 
-SPAAM Safety Office
-
-- Aida Andrades Valtueña (CAT/ES/EN, MPI-EVA, Leipzig, aida_andrades@eva.mpg.de)
-- Laura Carrillo-Olivas (EN/ES, Universidad Nacional Autónoma de México, lcarrilloolivas@liigh.unam.mx)
-- Elizabeth 'Betsy' Nelson (EN/ES, Southern Methodist University, Dallas, elizabethnelson@smu.edu)
-- Gunnar Neumann (DE/EN, MPI-EVA, Leipzig, gunnar_neumann@eva.mpg.de)
-- Anastasia Brativnyk (UK/RU/NO/EN, The Francis-Crick Institute, London, anastasia.brativnyk@crick.ac.uk)
-
-To report any violation you can contact any of the members of the SPAAM Safety Office or fill out the [**anonymous report form**](https://forms.gle/9RqKZL8hXBxMvFLs6).
-
-### 9. License and attribution
+### 8. License and attribution
 
 This is modified after the Code of Conduct distributed by [Stumptown Syndicate](http://stumptownsyndicate.org) and [Conf Code of Conduct](https://confcodeofconduct.com/) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/). 
 
-Portions of text derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
+Text from [SPAAM Community](https://spaam-community.github.io) with portions of text derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).

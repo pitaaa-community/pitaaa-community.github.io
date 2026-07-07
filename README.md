@@ -1,11 +1,11 @@
-This is the source code of the [SPAAM Community](https://spaam-community.github.io/).
+This is the source code of the [PITAAA Community](https://pitaaa-community.github.io/). 
 
 The website is powered by [GitHub Pages](https://pages.github.com/) + [Jekyll](https://jekyllrb.com/), and the theme is customized based on [Hydeout](https://github.com/fongandrew/hydeout).
 
 ## Development Instructions
 
 To develop this website, you should following the [GitHub Pages documentation](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
-Many components also adopted from the [sedaDNA](https://sedadna.github.io) society.
+Many components also adopted from the [sedaDNA](https://sedadna.github.io) society and [SPAAM community](https://spaam-community.github.io/)
 
 ## Quick Start - Fast
 
