@@ -4,13 +4,13 @@ title: Contact
 sidebar_link: true
 ---
 
-If you have events, news, or initiatives you'd like to share on the SPAAM website or social media platforms (X, Mastodon, BlueSky), you can now submit a request to the SPAAM Media Team!
+If you have events, news, or initiatives you'd like to share on the PITAAA website or social media platforms, you can now submit a request to the PITAAA Events Team!
 
 📩 How to submit a request:
 
-✅ Send an email to [spaam.community@gmail.com](mailto:spaam.community@gmail.com)
+✅ Send an email to [pitaaa.community@gmail.com](mailto:pitaaa.community@gmail.com)
 
-✅ Use **[MEDIA TEAM]** in the email subject line .
+✅ Use **[EVENTS TEAM]** in the email subject line .
 
 ✅ Include all relevant details about your event, news, or initiative.
 
