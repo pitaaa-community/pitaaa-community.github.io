@@ -1,9 +1,5 @@
 ---
-# Use a comment to ensure Jekyll reads the file to be transformed into CSS later
-# only main files contain this front matter, not partials.
 ---
-
-@import url("https://fonts.bunny.net/css?family=Varela+Round:300,400,600");
 
 $sidebar-bg-color: #63202d;
 $link-color: #63202d;
@@ -11,6 +7,8 @@ $link-color: #63202d;
 $root-font-family: -apple-system, "Varela Round", Arial, sans-serif !default;
 
 @import "hydeout";
+
+@import url("https://fonts.bunny.net/css?family=Varela+Round:300,400,600");
 
 .row {
   display: flex;
