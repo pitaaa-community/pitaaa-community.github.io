@@ -3,4 +3,4 @@ layout: category
 title: News
 ---
 
-Latest news from the SPAAM community.
+Latest news from the PITAAA community.
