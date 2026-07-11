@@ -17,23 +17,27 @@ We all are volunteers on the Steering Committee and we are really excited to wor
 
 [<img src="/assets/media/aida.png" class="center" width="50%" >]
 
-#### Chair
+### Chair
 
-**Mackenzie Masters**
+**Dr. Mackenzie Masters**
+Contact: masters@vub.be
 
-#### Vice Chairs
+Bio: I am a post-doc on the LOCO project at the BB-Lab (AMGC, VUB- Brussels), My research interests are rooted in how to best integrate osteology, archaeothanatology, and isotopic analyses (δ13C, δ15N, δ34S, 87Sr/86Sr, δ18O and Pb) to investigate both life histories and death histories in mass burial contexts from Roman/Late Antiquity and Medieval periods. 
+### Vice Chairs
 
 **Nadia Neff**
+Contact: ncneff@unm.edu
+
 
 **Maria Fernanda Quintana**
 
-#### Secretaries
+### Secretaries
 
 **Maura de Coster**
 
 **Anna Karligkioti**
 
-#### Treasurers
+### Treasurers
 
 **Hannah James**
 
@@ -41,21 +45,22 @@ We all are volunteers on the Steering Committee and we are really excited to wor
 
 **Carina Gerritzen**
 
-#### Events Committee
+### Events Committee
 
 **Margaux Depaermentier**
 
 **Lucy Koster**
 
-#### Communications Team
+### Communications Team
 
 **Jacob Griffith**
 
 **Erin Ray**
+Contact: eray@unm.edu
 
 **Elizabeth Hodgsons**
 
-#### Support
+### Support
 
 **Vlaa Sosis**
 
